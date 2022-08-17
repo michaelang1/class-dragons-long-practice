@@ -1,0 +1,2 @@
+
+// toothless.hasLifeGoals();
