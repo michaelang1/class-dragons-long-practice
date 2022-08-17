@@ -1,2 +1,2 @@
-let test;
+let test2;
 // toothless.hasLifeGoals();
